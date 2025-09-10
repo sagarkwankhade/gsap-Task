@@ -96,8 +96,8 @@ export default function Home() {
 
       {/* Features Section with Images + Hover */}
       <section className="py-20 bg-gray-50 text-center">
-        <h2 className="text-4xl font-bold mb-12">Features</h2>
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-8 max-w-6xl mx-auto px-6">
+        <h2 className="text-4xl font-bold mb-12 text-black">Features</h2>
+        <div className="grid grid-cols-1 md:grid-cols-4 gap-8 max-w-6xl mx-auto px-6 text-black">
           {[
             {
               title: "Fast",
